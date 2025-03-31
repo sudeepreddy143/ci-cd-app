@@ -41,5 +41,5 @@ The configured GitHub Actions workflow will:
 
 ### DockerHub Repository
 
-1.The screenshot of image being psuhed to dockerhub
+1.The screenshot of image being pushed to dockerhub
 ![DockerHub Screenshot](./screenshots/dockerhub_screenshot.png)
